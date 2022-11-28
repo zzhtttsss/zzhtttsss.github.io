@@ -94,7 +94,7 @@ hr {
 }
 
 blockquote {
-    border-left: 5px solid #42b983;
+    border-left: 5px solid #409EFF;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
     background-color: rgba(66, 185, 131, .1);
@@ -245,7 +245,7 @@ mark {
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    color: #409EFF !important;
 }
 
 .white-color {
@@ -387,8 +387,8 @@ header .side-nav .social-link {
 }
 
 .cover-btns a:hover {
-    border: 1px solid #f44336;
-    background-color: #f44336;
+    border: 1px solid #F56C6C;
+    background-color: #F56C6C;
     box-shadow: 0 14px 26px -12px rgba(233, 30, 99, 0.42),
     0 4px 23px 0 rgba(0, 0, 0, 0.12),
     0 8px 10px -5px rgba(233, 30, 99, 0.2);
@@ -1058,7 +1058,7 @@ article .article-tags .chip {
     border-radius: 15px;
     margin-right: 5px;
     margin-bottom: 2px;
-    color: #42b983;
+    color: #409EFF;
     background: #fff;
     border: 1px solid;
     transition: all 0.6s ease-in-out;
@@ -1066,17 +1066,17 @@ article .article-tags .chip {
 
 #artDetail .tag_share .article-tag .chip:hover {
     color: #fff;
-    background: #42b983;
+    background: #409EFF;
 }
 
 #artDetail .post-cate {
     float: right;
-    color: #42b983;
+    color: #409EFF;
 }
 
 #artDetail .post-cate a {
     padding-right: 5px;
-    color: #42b983;
+    color: #409EFF;
     font-weight: 500;
 }
 
@@ -1095,7 +1095,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-category:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #409EFF;
     text-decoration: underline;
 }
 
@@ -1158,7 +1158,7 @@ article .article-tags .chip {
 
 #artDetail .reprint a {
     font-size: 1.05rem;
-    color: #42b983;
+    color: #409EFF;
     font-weight: 500;
 }
 
@@ -1174,7 +1174,8 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #409EFF
+    ;
     font-weight: 500;
     text-decoration: underline;
     word-wrap: break-word;
@@ -1608,7 +1609,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #409EFF;
 }
 
 .post-statis .statis .name {
@@ -1878,7 +1879,7 @@ p.search-result-summary{
 
 .search-result-list .search-result-title {
     font-size: 1.4rem;
-    color: #42b983;
+    color: #409EFF;
 }
 
 .search-result-list li {
